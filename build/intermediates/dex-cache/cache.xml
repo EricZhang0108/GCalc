@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Susie/Dropbox/College/Courses/Programming/DartmouthHack/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9fcaadd7d1d2c23b284f9957901980a35167c1b7">
+        <dex dex="/Users/Susie/Dropbox/College/Courses/Programming/DartmouthHack/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f43047f9b46bedcbfca44d290e0c409c6a085544/classes.dex" />
+    </item>
+
+</items>

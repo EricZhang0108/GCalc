@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DartmouthHack</string>
+    <string name="edit_message">Enter your Grade</string>
+    <string name="button_send">Send</string>
+</resources>
