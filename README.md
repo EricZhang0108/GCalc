@@ -1,2 +1,2 @@
 # GCalc
-HackDarmouth app hack
+HackDarmouth 2016 app template
